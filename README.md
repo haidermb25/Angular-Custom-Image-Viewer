@@ -2,6 +2,18 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
+
+# About Project
+In this project I have create the custom image viewer in angular where you can do with image gallery given below things:
+->Move Left
+->Move Right
+->Zoom In
+->Zoom Out
+->Download
+->Rotate Left
+->Rotate Right
+
+
 ## Development server
 
 To start a local development server, run:
